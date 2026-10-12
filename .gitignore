@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+_screens/
+build/
+dist/
+*.spec
+!tools/python_learner.spec
+
+# schul-material dump, muss nicht auf github
+tools/source/
+
+# scratch / check-skripte
+_*.py
+_*.sh
+_*.ps1
+
+# release artifacts
+*.dmg
+*.zip
+*.exe

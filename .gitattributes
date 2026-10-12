@@ -1,0 +1,5 @@
+* text=auto
+
+# mac-skripte MUESSEN LF behalten, sonst laufen die aufm mac nicht
+*.sh      text eol=lf
+*.command text eol=lf
