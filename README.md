@@ -32,6 +32,7 @@ Mac (Apple Silicon): es gibt ein Build-Kit
 (`PythonLearner-X-mac-buildkit.zip`), auspacken,
 `Build Python Learner.command` doppelklicken, das baut eine echte
 `.app` + `.dmg` auf dem Mac. Details stehen in `tools/mackit/BUILD-ON-MAC.md`.
+Notes Hierzu: Mac ist Ungetestet, funktion ist nicht garantiert.
 
 ## Entwickeln
 
