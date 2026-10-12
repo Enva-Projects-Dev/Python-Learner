@@ -18,3 +18,7 @@ _*.ps1
 *.dmg
 *.zip
 *.exe
+
+# installer-ordner darf exe/zip enthalten
+!installer/*.exe
+!installer/*.zip

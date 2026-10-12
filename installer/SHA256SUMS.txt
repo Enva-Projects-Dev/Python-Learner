@@ -1,0 +1,2 @@
+8e865edb364a1ceb18b925a63c55575451b191426387c53791af786a8bbd020c  PythonLearner-0.0.3-mac-buildkit.zip
+217eb22e629d3a6f86e047f498ec05e8f4fc98a9dab273896ab392611914deff  PythonLearner-0.0.3-windows-Installer.exe

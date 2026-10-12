@@ -23,8 +23,8 @@ Entwürfe werden automatisch gespeichert.
 
 ## Installation
 
-Windows: den Installer aus den GitHub Releases laden
-(`PythonLearner-X-windows-Installer.exe`), installieren, fertig. Wer
+Windows: den Installer aus dem Ordner `installer/` (oder aus den GitHub
+Releases) laden, `PythonLearner-X-windows-Installer.exe` ausführen, fertig. Wer
 nichts installieren will, nimmt das portable Zip: entpacken und
 `Python Learner.exe` starten.
 
